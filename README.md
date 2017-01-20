@@ -5,3 +5,5 @@ Here are the minutes for the Gridcoin hangouts.
 * in progress
 
 From these sessions are also tasks extracted, see: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
+
+![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
