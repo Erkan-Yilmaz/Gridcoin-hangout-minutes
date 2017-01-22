@@ -6,6 +6,8 @@ Here are the minutes for the Gridcoin hangouts.
 * in progress
 * [session 16](hangout_2016_11_19.MD) (2016-11-19, 2h 18 mins, invited guest: Suchflex)
 * [session 17](hangout_2016_11_26.MD) (2016-11-26, 2h 42 mins, invited guest: CureCoin members FifthGB & wuffy68)
+* in progress
+* [session 22](hangout_2017_01_21.MD) (2017-01-21, ca. 3h, todo)
 
 
 From these sessions are also tasks extracted, see: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
