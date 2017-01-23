@@ -9,7 +9,8 @@ Here are the minutes for the Gridcoin hangouts.
 * in progress
 * [session 22](hangout_2017_01_21.MD) (2017-01-21, ca. 3h, todo)
 
+If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
 
-From these sessions are also tasks extracted, see: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
+From these sessions are also extracted: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
