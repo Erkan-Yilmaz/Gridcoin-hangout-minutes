@@ -4,6 +4,7 @@ Here are the minutes for the Gridcoin hangouts.
 * [session 1](hangout_2016_07_30.MD) (2016-07-30, 2h 18 mins, invited guest: Fuzzy from steemit)
 * [session 2](hangout_2016_08_13.MD) (2016-08-13, 2h 58 mins, invited guest: Ivan Zone, CEO of Suchflex)
 * [session 3](hangout_2016_08_20.MD) (2016-08-20, 2h 38 mins)
+* [session 4](hangout_2016_08_27.MD) (2016-08-27, 2h 04 mins)
 * in progress
 * [session 16](hangout_2016_11_19.MD) (2016-11-19, 2h 18 mins, invited guest: Suchflex)
 * [session 17](hangout_2016_11_26.MD) (2016-11-26, 2h 42 mins, invited guests: CureCoin members FifthGB & wuffy68)
