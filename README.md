@@ -16,6 +16,9 @@ Here are the minutes for the Gridcoin hangouts.
 
 If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
 
+Backup:
+* you can backup the minutes as described [here](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/blob/master/read_offline.MD)
+
 From these sessions are also extracted: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
