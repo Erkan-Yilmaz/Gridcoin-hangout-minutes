@@ -1,13 +1,13 @@
 # GRC Hangout episode guide
 ### Brief Intro
-The Gridcoin (GRC) Community Hangouts are scheduled mumble meetings, we folow a similar model to the BeyondBitcoin hangouts in that anyone can submit a relevant topic to disuss & order of talking priority is determined via post vote value (desending order).
+The Gridcoin (GRC) Community Hangouts are scheduled mumble meetings, we follow a similar model to the BeyondBitcoin hangouts in that anyone can submit a relevant topic to disuss & order of talking priority is determined via post vote value (descending order).
 
 @OfficialFuzzy (Fuzzy) from the BeyondBitcoin community reached out to the Gridcoin community earlier this year via his '[community allstar outreach](https://cryptocointalk.com/topic/47426-looking-for-gridcoin-community-allstars/)' campaign, ever since then we've been consistently creating content and utilizing the BeyondBitcoin mumble server.
 
-Shout out to @peppernrino for doing audio editing work & to all the regular attendees!
+Shout out to @Peppernrino for doing audio editing work & to all the regular attendees!
 
 ### TL;DR: What's Gridcoin?
-[Gridcoin](https://www.gridcoin.us) is a cryptocurrency which securely rewards [BOINC](https://boinc.berkeley.edu/) computation ([Such as attempting to solve cancer/aids/ebola/malaria, mapping the Milkyway, searching for extraterrestrial life, protien folding, etc](https://www.gridcoin.us/Guides/whitelist.htm)) on top of Proof of Stake.
+[Gridcoin](https://www.gridcoin.us) is a cryptocurrency which securely rewards [BOINC](https://boinc.berkeley.edu/) computation ([Such as attempting to solve cancer/aids/ebola/malaria, mapping the Milkyway, searching for extraterrestrial life, protein folding, etc](https://www.gridcoin.us/Guides/whitelist.htm)) on top of Proof of Stake.
 
 Unlike [Golem](http://golemproject.net/), you do not pay for volunteers/workers to crunch BOINC work units, the Gridcoin network distributes rewards to volunteers on the behalf of BOINC projects.
 
@@ -45,7 +45,7 @@ Unlike [Golem](http://golemproject.net/), you do not pay for volunteers/workers 
 
 ## Help promote our content
 #### 1. Smash the like/repost buttons for the episodes you enjoy on SoundCloud and Mixcloud.
-#### 2. Subsribe to the [SoundCloud](https://soundcloud.com/gridcoin-community-hangouts) & [Mixcloud](https://www.mixcloud.com/gridcoin_hangouts/) GRC Hangout pages
+#### 2. Subscribe to the [SoundCloud](https://soundcloud.com/gridcoin-community-hangouts) & [Mixcloud](https://www.mixcloud.com/gridcoin_hangouts/) GRC Hangout pages
 #### 3. Follow @cm-steem on steemit!
 #### 4. Consider attending a future hangout!
 #### 5. Upvote #Gridcoin content! :D
