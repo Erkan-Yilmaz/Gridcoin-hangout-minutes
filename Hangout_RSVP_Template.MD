@@ -29,7 +29,7 @@ More info: https://steemit.com/beyondbitcoin/@cm-steem/gridcoin-securely-rewardi
 
 ## How long will the hangout last?
 
-If there are not many topics suggested then hangouts won't last longer than an hour, on the other hand if there are many topic suggested then the hangout may last 2-3 hours!
+If there are not many topics suggested then hangouts won't last longer than an hour, on the other hand if there are many topics suggested then the hangout may last 2-3 hours!
 
 When the Gridcoin Community Hangouts start really picking up traction we can become more strict with allocated speaking time if need be (so you're not waiting hours to talk).
 
