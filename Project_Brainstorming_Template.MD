@@ -5,7 +5,7 @@
 # What is BOINC?
 [BOINC](https://boinc.berkeley.edu/) is an [open-source](https://github.com/BOINC/boinc/) volunteer oriented distributed computing grid. It's free, and harnesses the unused clock cycles from processors and graphics cards to attempt to cure cancer/aids/ebola/malaria, map the milkyway, fold proteins, search for extraterrestrial life, etc.
 
-Currently, there are approx ***580,000*** active BOINC users & more then ***4 million*** registered accounts. There's ***serious*** computing power being untapped at the moment.
+Currently, there are approx ***580,000*** active BOINC users & more than ***4 million*** registered accounts. There's ***serious*** computing power being untapped at the moment.
 
 ### What are some examples of existing BOINC projects?
 * [World Community Grid](http://www.worldcommunitygrid.org/) : Attempting to solve Cancer, Ebola, Malaria, Zika, etc.
