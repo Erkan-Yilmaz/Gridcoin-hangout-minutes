@@ -2,7 +2,7 @@
 <a href="https://www.gridcoin.us"><img src="https://i.imgur.com/IPq8wdr.jpg" alt="logo" /></a>
 </center>
 
-# Gridcoin Community Hangout #021
+# Gridcoin Community Hangout #024
 
 A massive shout out to the BeyondBitcoin community & @officialfuzzy for providing the Gridcoin community a room in their mumble server for free.
 
@@ -18,6 +18,8 @@ More info: https://steemit.com/beyondbitcoin/@cm-steem/gridcoin-securely-rewardi
 
 |  <a href="https://soundcloud.com/gridcoin-community-hangouts"><img src="https://i.imgur.com/hdacJVS.png" alt="Soundcloud" /></a> | <a href="https://www.youtube.com/channel/UC0Z3uczcC2okYRrLLCZFrMQ"><img src="https://i.imgur.com/QvoebV5.png" alt="YouTube" /></a>  | <a href="https://www.mixcloud.com/gridcoin_hangouts/"><img src="https://i.imgur.com/e5DHO0G.jpg" alt="MixCloud" /></a>  | <a href="https://cryptocointalk.com/topic/48658-beyond-bitcoin-regular-gridcoin-mumble-conference-calls/"><img src="https://i.imgur.com/LfhrCA6.png" alt="Cryptocointalk" /></a>
 |---|---|---|---|
+
+The minutes can be found <a href="https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes">here</a>.
 
 ## Past episode details
 <a href="https://steemit.com/gridcoin/@cm-steem/gridcoin-community-hangout-020-24th-dec-2016-9pm-gmt-rsvp-and-suggest-topics">020 RSVP & Topic suggestion thread</a>
@@ -43,7 +45,7 @@ It's advisable to stay generally on topic, attendees are distributed around the 
 
 That said, this 'on topic' guideline fizzles away once official recording has ended & the hangout becomes a more relaxed environment.
 
-## Proposed time for Gridcoin Hangout #018:
+## Proposed time for Gridcoin Hangout #024:
 
 9PM GMT 07th Jan 2017.
 
