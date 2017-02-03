@@ -15,7 +15,8 @@ Here are the minutes for the Gridcoin hangouts.
 * [session 19](hangout_2016_12_17.MD) (2016-12-17, ?h ?mins)
 * [session 20](hangout_2016_12_24.MD) (2016-12-24, ?h ?mins)
 * in progress
-* [session 22](hangout_2017_01_21.MD) (2017-01-21, ca. 3h, todo)
+* [session 22](hangout_2017_01_21.MD) (2017-01-21, ca. 3h)
+* [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: staff from DrugDiscovery@Home)
 
 If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
 
