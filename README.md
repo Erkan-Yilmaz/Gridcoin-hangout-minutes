@@ -16,7 +16,7 @@ Here are the minutes for the Gridcoin hangouts.
 * [session 20](hangout_2016_12_24.MD) (2016-12-24, 1h 54 mins)
 * in progress
 * [session 22](hangout_2017_01_21.MD) (2017-01-21, ca. 3h)
-* [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: staff from DrugDiscovery@Home)
+* [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: Andrew Voronkov (from DrugDiscovery), rebirther (from SRBase))
 
 If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
 
