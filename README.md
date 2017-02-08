@@ -8,6 +8,7 @@ Here are the minutes for the Gridcoin hangouts.
 * [session 5](hangout_2016_09_03.MD) (2016-09-03, 1h 52 mins)
 * [session 6](hangout_2016_09_10.MD) (2016-09-10, 1h 16 mins)
 * [session 7](hangout_2016_09_17.MD) (2016-09-17, 1h 45 mins)
+* [session 8](hangout_2016_09_24.MD) (2016-09-24, 1h 28 mins)
 * in progress
 * [session 16](hangout_2016_11_19.MD) (2016-11-19, 2h 18 mins, invited guest: Suchflex)
 * [session 17](hangout_2016_11_26.MD) (2016-11-26, 2h 42 mins, invited guests: CureCoin members FifthGB & wuffy68)
