@@ -14,7 +14,7 @@ Here are the minutes for the Gridcoin hangouts.
 * [session 18](hangout_2016_12_03.MD) (2016-12-03, 3h 31 mins, invited guests: CureCoin dev Max, FifthGB & wuffy68 from CureCoin)
 * [session 19](hangout_2016_12_17.MD) (2016-12-17, 0h 50 mins)
 * [session 20](hangout_2016_12_24.MD) (2016-12-24, 1h 54 mins)
-* in progress
+* [session 21](hangout_2017_01_07.MD) (2017-01-07, ?h ? mins)
 * [session 22](hangout_2017_01_21.MD) (2017-01-21, ca. 3h)
 * [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: Andrew Voronkov (from DrugDiscovery), rebirther (from SRBase))
 
