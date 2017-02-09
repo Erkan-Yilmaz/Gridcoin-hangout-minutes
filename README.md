@@ -23,13 +23,10 @@ Chronological:
 * [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: Andrew Voronkov (from DrugDiscovery), rebirther (from SRBase))
 
 <br>
-If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
-
-<br>
-Backup:
-* you can backup the minutes as described [here](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/blob/master/read_offline.MD)
-
-<br>
-From these sessions are also extracted: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
+info:
+* If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
+* backup:
+  * you can backup the minutes as described [here](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/blob/master/read_offline.MD)
+* From these sessions are also extracted: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
