@@ -1,6 +1,6 @@
 # Gridcoin hangout minutes
 Below are the links to the minutes and audio files for the Gridcoin community hangouts.
-* [Here](https://steemit.com/gridcoin/@erkan/interview-guide-gridcoin-community-hangouts) is a list sorted after invited guests
+* [Here](https://steemit.com/gridcoin/@erkan/interview-guide-gridcoin-community-hangouts) is a list sorted after invited guests (BOINC admins, ...)
 
 <br>
 * [session 1](hangout_2016_07_30.MD) (2016-07-30, 2h 18 mins, invited guest: Fuzzy from steemit)
