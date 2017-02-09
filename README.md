@@ -1,6 +1,8 @@
 # Gridcoin hangout minutes
-Below are the minutes and audio files for the Gridcoin community hangouts ([here](https://steemit.com/gridcoin/@erkan/interview-guide-gridcoin-community-hangouts) is a list sorted after invited guests):
+Below are the links to the minutes and audio files for the Gridcoin community hangouts.
+* [Here](https://steemit.com/gridcoin/@erkan/interview-guide-gridcoin-community-hangouts) is a list sorted after invited guests
 
+<br>
 * [session 1](hangout_2016_07_30.MD) (2016-07-30, 2h 18 mins, invited guest: Fuzzy from steemit)
 * [session 2](hangout_2016_08_13.MD) (2016-08-13, 2h 58 mins, invited guest: Ivan Zone, CEO of Suchflex)
 * [session 3](hangout_2016_08_20.MD) (2016-08-20, 2h 38 mins)
