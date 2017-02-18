@@ -19,7 +19,7 @@ Chronological:
 * [session 19](hangout_2016_12_17.MD) (2016-12-17, 0h 50 mins)
 * [session 20](hangout_2016_12_24.MD) (2016-12-24, 1h 54 mins)
 * [session 21](hangout_2017_01_07.MD) (2017-01-07, 2h 18 mins)
-* [session 22](hangout_2017_01_21.MD) (2017-01-21, ca. 3h)
+* [session 22](hangout_2017_01_21.MD) (2017-01-21, 2h 36 mins)
 * [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: Krzysztof Piszczek (from DrugDiscovery), rebirther (from SRBase))
 
 <br>
