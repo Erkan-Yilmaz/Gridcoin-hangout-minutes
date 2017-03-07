@@ -3,6 +3,15 @@ Below are the links to the minutes and audio files for the Gridcoin community ha
 * [Here](https://steemit.com/gridcoin/@erkan/interview-guide-gridcoin-community-hangouts) is a list sorted after invited guests (BOINC admins, ...)
 
 <br>
+
+info:
+* If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
+* backup:
+  * you can backup the minutes as described [here](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/blob/master/read_offline.MD)
+* From these sessions are also extracted: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
+
+
+<br>
 Chronological:
 * [session 1](hangout_2016_07_30.MD) (2016-07-30, 2h 18 mins, invited guest: Fuzzy from steemit)
 * [session 2](hangout_2016_08_13.MD) (2016-08-13, 2h 58 mins, invited guest: Ivan Zone, CEO of Suchflex)
@@ -23,12 +32,8 @@ Chronological:
 * [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: Krzysztof Piszczek (from DrugDiscovery), rebirther (from SRBase))
 * [session 24](hangout_2017_02_18.MD) (2017-02-18, ?h ?mins, invited guest: Sergei Chernykh)
 * [session 25](hangout_2017_03_04.MD) (2017-03-04, ?h ?mins)
+* [session 26](hangout_2017_03_18.MD) (2017-03-18, ?h ?mins)
 
 <br>
-info:
-* If you see any improvement possibility in the minutes, make a [pull request](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/pulls) or write an [issue](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/issues). Thanks!
-* backup:
-  * you can backup the minutes as described [here](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/blob/master/read_offline.MD)
-* From these sessions are also extracted: [Gridcoin tasks](https://github.com/Erkan-Yilmaz/Gridcoin-tasks)
 
 ![alt text](https://i.imgur.com/IPq8wdr.jpg "Gridcoin")
