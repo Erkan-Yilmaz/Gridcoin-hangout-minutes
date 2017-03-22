@@ -32,6 +32,7 @@ Chronological:
 * [session 24](hangout_2017_02_18.MD) (2017-02-18, ?h ?mins, invited guest: Sergei Chernykh (from Amicable Numbers))
 * [session 25](hangout_2017_03_04.MD) (2017-03-04, ?h ?mins)
 * [session 26](hangout_2017_03_18.MD) (2017-03-18, ?h ?mins)
+* [session 27](hangout_2017_04_01.MD) (2017-04-01, ?h ?mins)
 
 <br>
 
