@@ -11,7 +11,9 @@ Info:
 
 
 <br>
+
 Chronological:
+
 * [session 1](hangout_2016_07_30.MD) (2016-07-30, 2h 18 mins, invited guest: Fuzzy from steemit)
 * [session 2](hangout_2016_08_13.MD) (2016-08-13, 2h 58 mins, invited guest: Ivan Zone, CEO of Suchflex)
 * [session 3](hangout_2016_08_20.MD) (2016-08-20, 2h 38 mins)
