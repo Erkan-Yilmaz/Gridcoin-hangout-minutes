@@ -30,7 +30,7 @@ Chronological:
 * [session 20](hangout_2016_12_24.MD) (2016-12-24, 1h 54 mins)
 * [session 21](hangout_2017_01_07.MD) (2017-01-07, 2h 18 mins)
 * [session 22](hangout_2017_01_21.MD) (2017-01-21, 2h 36 mins)
-* [session 23](hangout_2017_02_04.MD) (2017-02-04, ?h ?mins, invited guests: Krzysztof Piszczek (from DrugDiscovery), rebirther (from SRBase))
+* [session 23](hangout_2017_02_04.MD) (2017-02-04, 2h 41 mins, invited guests: Krzysztof Piszczek (from DrugDiscovery), rebirther (from SRBase))
 * [session 24](hangout_2017_02_18.MD) (2017-02-18, ?h ?mins, invited guest: Sergei Chernykh (from Amicable Numbers))
 * [session 25](hangout_2017_03_04.MD) (2017-03-04, ?h ?mins)
 * [session 26](hangout_2017_03_18.MD) (2017-03-18, ?h ?mins)
