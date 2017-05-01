@@ -23,7 +23,12 @@ Chronological:
 * [session 7](hangout_2016_09_17.MD) (2016-09-17, 1h 45 mins)
 * [session 8](hangout_2016_09_24.MD) (2016-09-24, 1h 28 mins)
 * [session 9](hangout_2016_10_01.MD) (2016-10-01, 2h 8 mins)
-* in progress
+* [session 10](hangout_2016_10_07.MD) (2016-10-07, 1h 53 mins)
+* [session 11](hangout_2016_10_15.MD) (2016-10-15, 2h 18 mins)
+* [session 12](hangout_2016_10_22.MD) (2016-10-22, 1h 54 mins)
+* [session 13](hangout_2016_10_29.MD) (2016-10-29, 2h 19 mins)
+* [session 14](hangout_2016_11_05.MD) (2016-11-05, 1h 57 mins)
+* [session 15](hangout_2016_11_12.MD) (2016-11-12, 1h 21 mins)
 * [session 16](hangout_2016_11_19.MD) (2016-11-19, 2h 18 mins, invited guest: Suchflex)
 * [session 17](hangout_2016_11_26.MD) (2016-11-26, 2h 42 mins, invited guests: CureCoin members FifthGB & wuffy68)
 * [session 18](hangout_2016_12_03.MD) (2016-12-03, 3h 31 mins, invited guests: CureCoin dev Max, FifthGB & wuffy68 from CureCoin)
