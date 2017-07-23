@@ -48,6 +48,8 @@ Chronological:
 * [session 32](hangout_2017_06_10.MD) (2017-06-10, ?h ?mins)
 * [session 33](hangout_2017_06_24.MD) (2017-06-24, ?h ?mins)
 * [session 34](hangout_2017_07_08.MD) (2017-07-08, ?h ?mins)
+* [session 35](hangout_2017_07_22.MD) (2017-07-22, ?h ?mins)
+* [session 36](hangout_2017_08_05.MD) (2017-08-05, ?h ?mins)
 
 <br>
 
